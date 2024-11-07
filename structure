@@ -1,0 +1,66 @@
+!DOCTYPE html>
+<html lang="en">
+<div class="bg-white"></div>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CA RD Badoniya | Chartered Accountant</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- Header and Hero Section -->
+<header class="hero-section">
+    <div class="header-container">
+        <h1>CA RD Badoniya</h1>
+        <nav>
+            <ul>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </div>
+    <div class="hero-content">
+        <h2>Your Trusted Chartered Accountant</h2>
+        <p>Offering expert financial guidance and comprehensive accounting solutions for businesses and individuals.</p>
+        <a href="#contact" class="cta-button">Get in Touch</a>
+    </div>
+</header>
+<hr width="100%;" color="black" size="5">
+
+<!-- Services Section -->
+<section id="services" class="services-section">
+    <h2>Our Services</h2>
+    <div class="services-container">
+        <div class="service-box">
+            <h3>Tax Compliance</h3>
+            <p>Ensuring your tax obligations are met accurately and on time, so you can focus on growing your business.</p>
+        </div>
+        <div class="service-box">
+            <h3>Accounting & Bookkeeping</h3>
+            <p>Providing reliable accounting and bookkeeping services to streamline your finances.</p>
+        </div>
+        <div class="service-box">
+            <h3>Financial Advisory</h3>
+            <p>Expert guidance to help you make informed financial decisions for long-term success.</p>
+        </div>
+    </div>
+</section>
+
+<!-- Contact Section -->
+<section id="contact" class="contact-section">
+    <h2>Contact Us</h2>
+    <p>Reach out to discuss how we can help you achieve your financial goals.</p>
+    <form action="#" method="post">
+        <input type="text" name="name" placeholder="Your Name" required>
+        <input type="email" name="email" placeholder="Your Email" required>
+        <textarea name="message" placeholder="Your Message" required></textarea>
+        <button type="submit">Send Message</button>
+    </form>
+</section>
+<section class="careers">
+    <h2>Join our team.</h2>
+    <p>Realize your potential.</p>
+    <a href="#" class="careers-button">Explore it!</a>
+</section>
